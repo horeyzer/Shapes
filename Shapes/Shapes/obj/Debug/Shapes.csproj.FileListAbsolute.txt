@@ -1,0 +1,11 @@
+C:\Users\vchup\source\repos\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\vchup\source\repos\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\vchup\source\repos\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\vchup\source\repos\Shapes\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+C:\Users\vchup\source\repos\Shapes\Shapes\obj\Debug\Shapes.csproj.SuggestedBindingRedirects.cache
+C:\Users\vchup\source\repos\Shapes\Shapes\obj\Debug\Shapes.Form1.resources
+C:\Users\vchup\source\repos\Shapes\Shapes\obj\Debug\Shapes.Properties.Resources.resources
+C:\Users\vchup\source\repos\Shapes\Shapes\obj\Debug\Shapes.csproj.GenerateResource.cache
+C:\Users\vchup\source\repos\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\vchup\source\repos\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\vchup\source\repos\Shapes\Shapes\obj\Debug\Shapes.pdb
